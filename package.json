@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "wokring with Node and NPM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devAbhimanyu/node-A-to-Z.git"
+  },
+  "author": "Abhimanyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devAbhimanyu/node-A-to-Z/issues"
+  },
+  "homepage": "https://github.com/devAbhimanyu/node-A-to-Z#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
